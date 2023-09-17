@@ -1,1 +1,2 @@
-print("My name is John".rjust(30))
+import sys
+print(sys.path)
